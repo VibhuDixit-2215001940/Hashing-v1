@@ -1,0 +1,26 @@
+{
+  "Color": 0,
+  "HashOptions": {
+    "MD5": false,
+    "SHA1": true,
+    "SHA256": true,
+    "SHA384": true,
+    "SHA512": false,
+    "CRC32": false,
+    "RIPEMD160": false,
+    "SHA3_256": false,
+    "SHA3_384": false,
+    "SHA3_512": false
+  },
+  "LowerCasing": false,
+  "TrayIcon": false,
+  "HighPriority": false,
+  "CRC32Decimal": false,
+  "ActiveHash": 2,
+  "StayOnTop": true,
+  "SingleInstance": true,
+  "WindowSize": "853, 668",
+  "WindowLocation": "256, 26",
+  "WindowState": 0,
+  "LanguageCode": 0
+}
